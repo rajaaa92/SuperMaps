@@ -1,0 +1,10 @@
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/obj/x86/Debug/SuperMaps.gtk-gui.gui.stetic
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/SuperMaps.exe.mdb
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/SuperMaps.exe
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/obj/x86/Debug/SuperMaps.exe
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/obj/x86/Debug/SuperMaps.exe.mdb
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/Google.Maps.dll
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/Newtonsoft.Json.dll
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/GMap.NET.Core.dll
+/Users/asia/Documents/Edukacja/Studia/SEM7/PW/SuperMaps/SuperMaps/bin/Debug/GMap.NET.WindowsPresentation.dll
